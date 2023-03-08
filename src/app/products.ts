@@ -4,7 +4,7 @@ export interface Product {
   price: number;
   description: string;
 }
-export const Products = [
+export const products = [
   {
     id: 1,
     name: 'Phone XL',
